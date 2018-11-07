@@ -1,0 +1,47 @@
+GS.KAN05 (NE): C
+GS.KAN06 (N): C
+GS.KAN10 (E): low amp
+GS.OK025 (2): clipping (below shorten as C)
+GS.OK031 (2): clipping
+GS.OK033 (2): clipping
+GS.OK038 (1): C
+OK.BCOK (NE): C
+OK.BLOK (ZNE): C
+OK.CCOK (NE): C
+OK.CHOK (NE): C
+OK.CROK (ZNE): C
+OK.DEOK (ZNE): C
+OK.FNO (NE): C
+OK.LOOK (NE): C
+OK.NOKA (NE): C
+OK.QUOK (NE): C
+OK.RLOK (ZNE): C
+OK.X34A (NE): C
+US.KSU1.10 (NE): C
+US.WMOK.10 (12): C
+XR.MIL1 (NE): C
+Y9.FW02 (2): long period drift
+Y9.FW03 (12): C
+Y9.FW04 (2): no amp (?)
+Y9.FW05 (12): C
+Y9.FW06 (1): C
+Y9.FW07 (1): C
+Y9.FW09 (1): C
+YW.501 (12): C
+YW.502 (1): C
+YW.503 (1): C
+YW.504 (1): C
+YW.505 (1): C
+YW.506 (1): C
+YW.507 (1): C
+YW.508 (1): C
+YW.509 (1): C
+YW.510 (1): C
+YW.511 (1): C
+YW.512 (1): C
+YW.513 (1): C
+YW.514 (1): C
+YW.515 (1): C
+YW.516 (12): C
+YW.517 (1): C
+YW.518 (12): C
