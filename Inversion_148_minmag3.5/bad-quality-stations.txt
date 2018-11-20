@@ -1,3 +1,6 @@
+#event detail: 
+#2015-06-12T22:42:24.380000Z | +36.310,  -96.671 | 3.7 Mwr 
+
 OK.QUOK..HH  ZNE
 NX.STN11..HH  ZNE
 NX.STN10..HH  Z12
